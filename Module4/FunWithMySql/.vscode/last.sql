@@ -1,0 +1,1 @@
+SELECT * FROM Aspnetusers WHERE Email = 0

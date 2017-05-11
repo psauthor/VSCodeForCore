@@ -1,0 +1,2 @@
+GET http://api.github.com/users/shawnwildermuth/repos
+If-None-Match: W/"25ddf72a2674b68853dcf5642e1eb0cb"
