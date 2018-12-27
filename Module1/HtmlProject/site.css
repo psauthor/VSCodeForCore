@@ -2,3 +2,7 @@ body {
   font-size: 1.0em;
   font-family: sans-serif;
 }
+
+.pull-right {
+  float: right;
+}
